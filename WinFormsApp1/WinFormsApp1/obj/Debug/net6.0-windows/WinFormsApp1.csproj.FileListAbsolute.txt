@@ -1,0 +1,17 @@
+C:\Progetti\2022\GIT_DrSlashRnFR\Test1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Progetti\2022\GIT_DrSlashRnFR\Test1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Progetti\2022\GIT_DrSlashRnFR\Test1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Progetti\2022\GIT_DrSlashRnFR\Test1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Progetti\2022\GIT_DrSlashRnFR\Test1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Progetti\2022\GIT_DrSlashRnFR\Test1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Progetti\2022\GIT_DrSlashRnFR\Test1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Progetti\2022\GIT_DrSlashRnFR\Test1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Progetti\2022\GIT_DrSlashRnFR\Test1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progetti\2022\GIT_DrSlashRnFR\Test1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Progetti\2022\GIT_DrSlashRnFR\Test1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Progetti\2022\GIT_DrSlashRnFR\Test1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Progetti\2022\GIT_DrSlashRnFR\Test1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Progetti\2022\GIT_DrSlashRnFR\Test1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Progetti\2022\GIT_DrSlashRnFR\Test1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Progetti\2022\GIT_DrSlashRnFR\Test1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Progetti\2022\GIT_DrSlashRnFR\Test1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
